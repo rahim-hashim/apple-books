@@ -1,0 +1,41 @@
+---
+asset_id: 4DB2E796AD259737F453E6C296146C7A
+author: Ted Chiang
+modified_date: '2024-05-30T10:09:26'
+title: Exhalation
+---
+
+# Exhalation
+
+By Ted Chiang
+
+## My notes <a name="my_notes_dont_delete"></a>
+
+
+
+## iBooks notes <a name="ibooks_notes_dont_delete"></a>
+
+
+had been marveling at the coincidence that we met in Baghdad just in time for me to make my journey here, use the Gate, and travel back. But now I wonder if it is perhaps not a coincidence at all. Is my arrival here today the reason that you will move to Baghdad twenty years from now?”
+				Bashaarat smiled. “Coincidence and intention are two sides of a tapestry, my lord. You may find one more agreeable to look at, but you cannot say one is true and the other is false.”
+
+My consciousness could be said to be encoded in the position of these tiny leaves, but it would be more accurate to say that it was encoded in the ever-shifting pattern of air driving these leaves. Watching the oscillations of these flakes of gold, I saw that air does not, as we had always assumed, simply provide power to the engine that realizes our thoughts. Air is in fact the very medium of our thoughts. All that we are is a pattern of air flow. My memories were inscribed, not as grooves on foil or even the position of switches, but as persistent currents of argon.
+			
+			In the moments after I grasped the nature of this lattice mechanism, a cascade of insights penetrated my consciousness in rapid succession. The first and most trivial was understanding why gold, the most malleable and ductile of metals, was the only material out of which our brains could be made. Only the thinnest of foil leaves could move rapidly enough for such a mechanism, and only the most delicate of filaments could act as hinges for them. By comparison, the copper burr raised by my stylus as I engrave these words and brushed from the sheet when I finish each page is as coarse and heavy as scrap. This truly was a medium where erasing and recording could be performed rapidly, far more so than any arrangement of switches or gears.
+			What next became clear was why installing full lungs into a person who has died from lack of air does not bring him back to life. These leaves within the lattice remain balanced between continuous cushions of air. This arrangement lets them flit back and forth swiftly, but it also means that if the flow of air ever ceases, everything is lost; the leaves all collapse into identical pendent states, erasing the patterns and the consciousness they represent. Restoring the air supply cannot re-create what has evanesced. This was the price of speed; a more stable medium for storing patterns would mean that our consciousnesses would operate far more slowly.
+
+Given his mathematical inclination, he viewed a child’s emotional state as an example of a system in unstable equilibrium. His notebooks from the period include the following: “Indulgence leads to misbehavior, which angers the nanny and prompts her to deliver punishment more severe than is warranted. The nanny then feels regret, and subsequently overcompensates with further indulgence. It is an inverted pendulum, prone to oscillations of ever-increasing magnitude. If we can only keep the pendulum vertical, there is no need for subsequent correction.”
+
+Psychologists make a distinction between semantic memory—knowledge of general facts—and episodic memory, or recollection of personal experiences. We’ve been using technological supplements for semantic memory ever since the invention of writing: first books, then search engines. By contrast, we’ve historically resisted such aids when it comes to episodic memory; few people have ever kept as many diaries or photo albums as they did ordinary books. The obvious reason is convenience; if we wanted a book on the birds of North America, we could consult one that an ornithologist has written, but if we wanted a daily diary, we had to write it for ourselves. But I also wonder if another reason is that, subconsciously, we regarded our episodic memories as such an integral part of our identities that we were reluctant to externalize them, to relegate them to books on a shelf or files on a computer.
+
+Another of my earliest memories is of playing on the living room rug, pushing toy cars around, while my grandmother worked at her sewing machine; she would occasionally turn and smile warmly at me. There are no photos of that moment, so I know the recollection is mine and mine alone. It is a lovely, idyllic memory. Would I want to be presented with actual footage of that afternoon? No; absolutely not.
+			Regarding the role of truth in autobiography, the critic Roy Pascal wrote, “On the one side are the truths of fact, on the other the truth of the writer’s feeling, and where the two coincide cannot be decided by any outside authority in advance.” Our memories are private autobiographies, and that afternoon with my grandmother features prominently in mine because of the feelings associated with it. What if video footage revealed that my grandmother’s smile was in fact perfunctory, that she was actually frustrated because her sewing wasn’t going well? What’s important to me about that memory is the happiness I associate with it, and I wouldn’t want that jeopardized.
+			It seemed to me that continuous video of my entire childhood would be full of facts but devoid of feeling, simply because cameras couldn’t capture the emotional dimension of events. As far as the camera was concerned, that afternoon with my grandmother would be indistinguishable from a hundred others. And if I’d grown up with access to all the video footage, there’d have been no way for me to assign more emotional weight to any particular day, no nucleus around which nostalgia could accrete.
+			
+			And what will the consequences be when people can claim to remember their infancy? I could readily imagine a situation where, if you ask a young person what her earliest memory is, she will simply look baffled; after all, she has video dating back to the day of her birth. The inability to remember the first few years of one’s life—what psychologists call childhood amnesia—might soon be a thing of the past. No more would parents tell their children anecdotes beginning with the words “You don’t remember this because you were just a toddler when it happened.” It’ll be as if childhood amnesia is a characteristic of humanity’s childhood, and in ouroboric fashion, our youth will vanish from our memories.
+			Part of me wanted to stop this, to protect children’s ability to see the beginning of their lives filtered through gauze, to keep those origin stories from being replaced by cold, desaturated video. But maybe they will feel just as warmly about their lossless digital memories as I do about my imperfect, organic memories.
+			People are made of stories. Our memories are not the impartial accumulation of every second we’ve lived; they’re the narrative that we assembled out of selected moments. Which is why, even when we’ve experienced the same events as other individuals, we never constructed identical narratives: the criteria used for selecting moments were different for each of us, and a reflection of our personalities. Each of us noticed the details that caught our attention and remembered what was important to us, and the narratives we built shaped our personalities in turn.
+			But, I wondered, if everyone remembered everything, would our differences get shaved away? What would happen to our sense of self? It seemed to me that a perfect memory couldn’t be a narrative any more than unedited security-cam footage could be a feature film.
+
+A human researcher named Irene Pepperberg spent thirty years studying Alex. She found that not only did Alex know the words for shapes and colors, he actually understood the concepts of shape and color.
+			Many scientists were skeptical that a bird could grasp abstract concepts. Humans like to think they’re unique. But eventually Pepperberg convinced them that Alex wasn’t just repeating words, that he understood what he was saying.
